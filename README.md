@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning SpringBoot<br>💬 Ask me about JAVA,HTML,CSS,JavaScript<br>👨‍💻 All of my projects are available at https://gaurav-g-k.github.io<br>📫 How to reach me [G-mail](gauravkanaujiya@gmail.com)<br>📄 Know about my experiences [Resume](https://drive.google.com/drive/u/1/my-drive)<br>
+🌱 I’m currently learning SpringBoot<br>💬 Ask me about JAVA,HTML,CSS,JavaScript<br>👨‍💻 All of my projects are available at [Portfolio](https://gaurav-g-k.github.io)<br>📫 How to reach me [G-mail](gauravkanaujiya@gmail.com)<br>📄 Know about my experiences [Resume](https://drive.google.com/drive/u/1/my-drive)<br>
 
 
 ## 🌐 Socials:
