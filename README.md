@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 [![About Me:](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gaurav-kanaujiya-b675a2132) 
 🌱 I’m currently learning SpringBoot<br>💬 Ask me about JAVA,HTML,CSS,JavaScript<br>👨‍💻 All of my projects are available at [Portfolio](https://gaurav-g-k.github.io)<br>📫 How to reach me [G-mail](gauravkanaujiya@gmail.com)<br>📄 Know about my experiences [Resume](https://drive.google.com/file/d/1iEmmS-9DYq3q1tybU-4eYxr9tlhQk3ig/view)<br>
 
 
