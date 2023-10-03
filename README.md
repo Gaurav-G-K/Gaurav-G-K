@@ -2,7 +2,7 @@
 🌱 I’m currently learning SpringBoot<br>💬 Ask me about JAVA,HTML,CSS,JavaScript<br>
 📫 How to reach me [G-mail](gauravkanaujiya@gmail.com)<br>
 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1iEmmS-9DYq3q1tybU-4eYxr9tlhQk3ig/view) <br>
-👨‍💻 Know more about me [https://gaurav-g-k.github.io/](https://gaurav-g-k.github.io/)
+👨‍💻 Know more about me [My Portfolio](https://gaurav-g-k.github.io/)
 
 
 ## 🌐 Socials:
